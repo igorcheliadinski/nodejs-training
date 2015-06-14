@@ -1,0 +1,4 @@
+http://people.onliner.by/feed
+http://auto.onliner.by/feed
+http://tech.onliner.by/feed
+http://realt.onliner.by/feed
